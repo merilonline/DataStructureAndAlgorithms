@@ -1,4 +1,5 @@
 nemo = ['nemo']
+everyone = ['dory', 'nemo']
 
 
 def find_nemo(array):
